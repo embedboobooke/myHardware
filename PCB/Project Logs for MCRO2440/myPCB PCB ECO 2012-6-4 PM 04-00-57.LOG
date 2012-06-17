@@ -1,0 +1,11 @@
+Added Component: Designator=U2(SOT223S)
+Added Component: Designator=U3(SOT223S)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VDD5V Pin=U2-3
+Added Pin To Net: NetName=VDD33V Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VDD5V Pin=U3-3
+Added Pin To Net: NetName=VDD18V Pin=U3-4
+Added Member To Class: ClassName=mickey2440 Member=Component U2 LM1117
+Added Member To Class: ClassName=mickey2440 Member=Component U3 LM1117
+Added Room: Name=mickey2440

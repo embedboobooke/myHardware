@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=NetR20_2 Pin=R20-2
+Change Component DesignItemId : Designator=R20 Old DesignItemId=Res3 New DesignItemId=RES1
+Change Component Comment : Designator=R20 Old Comment=Res3 New Comment=1K
+Change Component Description : Designator=R20 Old Description=Resistor New Description=
+Change Component Library : Designator=R20 Old Library=Miscellaneous Devices.IntLib New Library=*
+Added Pin To Net: NetName=NetR20_2 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR20_1
+Added Member To Class: ClassName=Micro2440 Member=Component R20 1K
+Added Room: Name=Micro2440

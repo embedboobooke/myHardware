@@ -1,0 +1,15 @@
+Added Component: Designator=R20(J1-0603)
+Added Component: Designator=RST(SPST-2)
+Added Component: Designator=S1(SW35)
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=M_NRESET Pin=RST-1
+Added Pin To Net: NetName=GND Pin=RST-2
+Added Pin To Net: NetName=OM0 Pin=S1-3
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=S1-4
+Added Net: Name=NetR20_2
+Added Member To Class: ClassName=Micro2440 Member=Component C9 Cap Semi
+Added Member To Class: ClassName=Micro2440 Member=Component R20 Res3
+Added Member To Class: ClassName=Micro2440 Member=Component RST SW-PB
+Added Member To Class: ClassName=Micro2440 Member=Component S1 CON5
+Added Room: Name=Micro2440

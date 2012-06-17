@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD5V Pin=USB-DEVICE-1
+Added Pin To Net: NetName=USB_5V Pin=USB-DEVICE-1
+Added Net: Name=USB_5V
+Added Room: Name=mickey2440
